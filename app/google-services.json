@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1038279757011",
+    "firebase_url": "https://poster-77b44.firebaseio.com",
+    "project_id": "poster-77b44",
+    "storage_bucket": "poster-77b44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038279757011:android:df0cd57531e37659",
+        "android_client_info": {
+          "package_name": "com.example.chasekidd.socialnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038279757011-mv908eod9bgk1qpsil94c431hv8c9sun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chasekidd.socialnetwork",
+            "certificate_hash": "9ac2041a9a293546f26f48fdbc85c71fa2e03ca8"
+          }
+        },
+        {
+          "client_id": "1038279757011-vbbq9jkppolnm8cenpql2pt7nom1ppun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBcyxBzyUJSua_yTHCX_jp8S8bvY0CN3w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038279757011-vbbq9jkppolnm8cenpql2pt7nom1ppun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
