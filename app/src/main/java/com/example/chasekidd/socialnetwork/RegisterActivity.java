@@ -33,7 +33,7 @@ public class RegisterActivity extends AppCompatActivity
 
         UserEmail = (EditText) findViewById(R.id.register_email);
         UserPassword = (EditText) findViewById(R.id.register_password);
-        UserConfirmPassword = (EditText) findViewById(R.id.register_confrim_password);
+        UserConfirmPassword = (EditText) findViewById(R.id.register_confirm_password);
         CreateAccountButton = (Button) findViewById(R.id.register_create_account);
         loadingBar = new ProgressDialog(this);
 
